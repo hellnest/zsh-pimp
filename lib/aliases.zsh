@@ -26,24 +26,17 @@ alias -s com=$BROWSER
 alias -s net=$BROWSER
 alias -s png=feh
 alias -s jpg=feh
-alias -s gif=feg
+alias -s gif=feh
 alias -s sxw=soffice
 alias -s doc=soffice
 alias -s java=$EDITOR
 alias -s txt=$EDITOR
-alias -s PKGBUILD=$EDITOR
 
 # Task Stuff
-alias bb='sudo bauerbill'
-alias orphan='pacman -Qdt'
 alias diff='colordiff'
-alias pacman='sudo pacman'
-alias rebase='sudo rebase'
-alias dhcpcd='sudo dhcpcd'
 alias fcache='sudo fc-cache -vfs && fc-cache -vfs'
 alias hdparm='sudo hdparm'
 alias a='aria2c'
-alias sf='screenfetch -s'
 alias grep='grep --color'
 alias pid='pgrep'
 alias kfc='killall conky'
@@ -51,11 +44,5 @@ alias reboot='sudo shutdown -r now'
 alias off='sudo shutdown -h now'
 alias mount='sudo mount'
 alias umount='sudo umount'
-alias uumount='udiskie-umount -a'
 alias xrel='xrdb -merge ~/.Xdefaults'
 alias zrel='source ~/.zshrc'
-
-# Application Specified
-alias fm='ranger'
-alias v='vim'
-alias vs='sudo vim'
