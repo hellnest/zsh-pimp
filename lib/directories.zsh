@@ -34,6 +34,6 @@ cd () {
   fi
 }
 
-alias md='mkdir -p'
-alias rd='rmdir'
+alias mkdir='mkdir -p'
+alias rd='rm -r'
 alias d='dirs -v'
