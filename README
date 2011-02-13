@@ -1,14 +1,7 @@
-I don't know but my git is broke last night. So i recreate this stuff.
+## PIMP My ZSH ##
+#################
 
-This is a fork from oh-my-zsh, what's the different here?
+This is a fork project from a famous Oh My Zsh! Project. This version is aimed to be have a much better functionality and can integrated well with various Linux Distribution.
+It's still in under heavy development, but i'm opening for feature request that maybe you can't get on the original version. :)
 
-I try to make it more portable and easy to use.. 
-
-You can try it if you want, it will not break your setting at all ^^
-
-
-
-
-Regards,
-
-Martin Lee
+Thanks for the original creator of Oh My Zsh!
