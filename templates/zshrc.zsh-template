@@ -16,7 +16,7 @@ export ZSH_THEME="hellnest"
 
 # Which plugins would you like to load? (plugins can be found in ~/.zsh-pimp/plugins/*)
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git zsh-syntax-highlighting)
+plugins=(git zsh-highlight)
 
 source $ZSH/zsh-pimp.sh
 
