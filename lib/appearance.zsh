@@ -33,3 +33,4 @@ ZSH_THEME_GIT_PROMPT_CLEAN=""               # Text to display if the branch is c
 
 # Setup the prompt with pretty colors
 setopt prompt_subst
+

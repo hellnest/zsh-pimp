@@ -34,9 +34,16 @@ alias -s txt=$EDITOR
 
 # Task Stuff
 alias diff='colordiff'
+alias free='free -m'
+alias df='df -h'
+alias mandb='sudo mandb'
+alias pacman-optimize='sudo pacman-optimize'
+alias ldconfig='sudo ldconfig'
+alias pacman='sudo pacman'
+alias rebase='sudo rebase'
+alias dhcpcd='sudo dhcpcd'
 alias fcache='sudo fc-cache -vfs && fc-cache -vfs'
 alias hdparm='sudo hdparm'
-alias a='aria2c'
 alias grep='grep --color'
 alias pid='pgrep'
 alias kfc='killall conky'
@@ -46,3 +53,7 @@ alias mount='sudo mount'
 alias umount='sudo umount'
 alias xrel='xrdb -merge ~/.Xdefaults'
 alias zrel='source ~/.zshrc'
+
+# Application Specified
+alias v='vim'
+alias vs='sudo vim'
