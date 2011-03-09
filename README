@@ -5,3 +5,11 @@ This is a fork project from a famous Oh My Zsh! Project. This version is aimed t
 It's still in under heavy development, but i'm opening for feature request that maybe you can't get on the original version. :)
 
 Thanks for the original creator of Oh My Zsh!
+
+1. How To Insall
+- First you can clone / fork this git repository
+- Go to zsh-pimp/tools directory
+- $ ./install.sh
+- you done :)
+
+You need to install zsh shell first before you can use it.
