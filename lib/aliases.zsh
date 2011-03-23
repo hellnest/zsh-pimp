@@ -33,7 +33,6 @@ alias -s java=$EDITOR
 alias -s txt=$EDITOR
 
 # Task Stuff
-alias diff='colordiff'
 alias free='free -m'
 alias df='df -h'
 alias mandb='sudo mandb'
