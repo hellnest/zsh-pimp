@@ -4,7 +4,7 @@ then
   exit
 fi
 
-echo "Cloning To PIMP My ZSH ~ GIT SERVER..."
+echo "Clone To PIMP My ZSH ~ git server..."
 /usr/bin/env git clone git://github.com/hellnest/zsh-pimp.git ~/.zsh-pimp
 
 echo "Looking for an existing zsh config..."
